@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Terra</h1>
-<h3 align="center">Full stack developer in the creation process. Currently i'm a student at Trybe | Turma XP.</h3>
+<h3 align="center">Full stack developer in the creation process. Currently I'm a student at Trybe | Turma XP.</h3>
 
 
 
