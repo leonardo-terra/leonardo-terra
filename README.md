@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Leo Terra</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&multiline=true&width=402&height=100&lines=Oi%2C+eu+sou+Leonardo+Terra;Obrigado+pela+visita.+Seja+bem+vindo!)](https://git.io/typing-svg)
+
 <h3 align="center">Full stack developer in the creation process. Currently I'm a student at Trybe | Turma XP.</h3>
 
 
 
 - 🔭 I’m currently working to be a **Full-stack dev.**
 
-- 🌱 I’m currently learning and loving **React**
+- 🌱 I’m currently learning Node.js with Express.js.
 
 - 📫 How to reach me **leo.terra.melo@gmail.com**
 
