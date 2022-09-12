@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&multiline=true&width=402&height=100&lines=Oi%2C+eu+sou+Leonardo+Terra.;Obrigado+pela+visita.+Seja+bem+vindo!)](https://git.io/typing-svg)
 
-<h3>Full stack developer in the creation process. Currently I'm a student at Trybe by <a href= "https://www.xpi.com.br/quem-somos/">XP</a> </h3>
+<h3>Full stack developer. I'm a Software Engineer working for <a href= "https://www.xpi.com.br/quem-somos/">XP</a> </h3>
 
 
 
