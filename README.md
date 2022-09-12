@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working to be a **Full-stack dev.**
+- 🔭 I’m currently working focused in a **Back-end.** stack.
 
-- 🌱 I’m currently learning Node.js with Express.js.
+- 🌱 I’m currently studying C#.
 
-- 📫 How to reach me **leo.terra.melo@gmail.com**
+- 📫 How to reach me: **leo.terra.melo@gmail.com**
 
 - ⚡ Fun fact **I'm trying to be a better dev, but I hate coffee :(**
 
